@@ -1,4 +1,4 @@
 # shivam-demo
 This is my first Git Repository.
 <br>
-Author-shivam kumar
+Author-shivam thakur
